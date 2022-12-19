@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #DFD3C3;
+}
+.Duar img {
+    position: absolute;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    width: 20%;
+    margin-right: 100px;
+    margin-left: 550px;
+}
+
+#button{
+    position: absolute;
+    font-size: 1em;
+    color:white;
+    background-color: #86C8BC;
+    padding: 10px 50px;
+    border-radius: 20px;
+    text-decoration: none;
+    transform: translateY(100px);
+    bottom: 100px;
+    margin-left: 690px;
+    margin-bottom: 230px;
+    width: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}    
+#button2{
+    position: absolute;
+    font-size: 1em;
+    color:white;
+    background-color: #86C8BC;
+    padding: 10px 50px;
+    border-radius: 20px;
+    text-decoration: none;
+    transform: translateY(100px);
+    bottom: 100px;
+    margin-left: 530px;
+    margin-bottom: 230px;
+    width: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.descripsion{
+    position: absolute;
+    font-size: 1em;
+    color:white;
+    background-color: #86C8BC;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    transform: translateY(100px);
+    bottom: 100px;
+    margin-left: 480px;
+    margin-bottom: 100px;
+}
